@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "GianFederico Poli"
-  avatar           : "images/propic.png"
+  avatar           : "propic.png"
   bio              : "Master Degree student Computer Science for AI"
   location         : "Bari, Italy"
-  employer         : "Università degli studi di Bari Aldo Moro"
+  employer         : "University of Bari 'Aldo Moro'"
   pubmed           : 
   googlescholar    : 
   email            : "gianfederico.poli@gmail.com"
