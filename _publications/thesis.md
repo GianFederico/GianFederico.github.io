@@ -16,4 +16,4 @@ In the second chapter, the thesis provides an overview of the Big Data phenomeno
 
 Finally, the thesis explores the crucial role of supply chain management in addressing the challenges posed by Big Data. Successful companies such as Dell and Walmart are presented as examples of organizations that have effectively adapted to this shift in perspective.
 
-[Download italian thesis here](/files/thesis.pdf)s
+[Download italian thesis here](/files/thesis.pdf)
