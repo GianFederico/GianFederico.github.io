@@ -22,7 +22,8 @@ See some of my academic projects in the [portfolio section](https://gianfederico
 
 - 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/)
 
-- 2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica)
+- 2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica); \
+Thesis: Big-Data Management Techniques for Predictive Marketing
 
 
 ## 🔵 Professional Experience
