@@ -32,9 +32,9 @@ As an intern, I was responsible for managing an internal HR-oriented tool, and w
   - automate a list of client processes;
 
 ## 🔵 Other Working Experiences
-  - 2021 Janitor at [Convitto Nazionale D. Cirillo](https://www.convittocirillo.edu.it/) 
-  - 2018-2020 Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/) at [Artigiano in fiera](https://artigianoinfiera.it/) 
-  - 2013-2017 Children sport-supervisor at [ASD Pineta Basket's](https://www.facebook.com/asdpinetabasket/?locale=it_IT) summer camps 
+  - 2020-2021 - Janitor at [Convitto Nazionale D. Cirillo](https://www.convittocirillo.edu.it/) 
+  - 2018-2020 - Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/) at [Artigiano in fiera](https://artigianoinfiera.it/) 
+  - 2013-2017 - Children sport-supervisor at [ASD Pineta Basket's](https://www.facebook.com/asdpinetabasket/?locale=it_IT) summer camps 
 
 
 
