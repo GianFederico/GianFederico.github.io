@@ -29,19 +29,12 @@ Thesis: Big-Data Management Techniques for Predictive Marketing.
 
 
 ## 🟢 Professional Experience
-With [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop. \
-As an intern, I was responsible for managing an internal HR-oriented tool, and work with clients on:
+With [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop. As an intern, I was responsible for managing an internal HR-oriented tool, and work with clients on:
   - implementing an applet that served as new database; 
   - automate a list of client processes;
+
 
 ## 🟢 Other Working Experiences
   - 2020-2021 - Janitor at [Convitto Nazionale D. Cirillo](https://www.convittocirillo.edu.it/).
   - 2018-2020 - Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/) at [Artigiano in fiera](https://artigianoinfiera.it/).
   - 2013-2017 - Children sport-supervisor at [ASD Pineta Basket's](https://www.facebook.com/asdpinetabasket/?locale=it_IT) summer camps.
-
-
-
-
-
-
-
