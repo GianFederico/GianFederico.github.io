@@ -16,8 +16,8 @@ I love dogs and all kinds of animals🐾🍂
 <em>"A different error message! Finally some progress!"</em>
 
 
-## 🔵 Academic & Working experiences
-2022 (Currently) - **Master Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence;
+## 🔵 Academic & Working Experiences
+2022 (Currently) - **Master Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence; \
 See some of my academic projects in the [portfolio section](https://gianfederico.github.io/).
 
 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/)
@@ -26,15 +26,15 @@ See some of my academic projects in the [portfolio section](https://gianfederico
 
 
 ## 🔵 Professional Experience
-With [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop.
+With [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop. \
 As an intern, I was responsible for managing an internal HR-oriented tool, and work with clients on 
   - implementing an applet that served as new database; 
   - automate a list of client processes;
 
-## 🔵 Other working experiences
-  - Janitor at [Convitto Nazionale D. Cirillo](https://www.convittocirillo.edu.it/) 2021
-  - Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/) @ [Artigiano in fiera](https://artigianoinfiera.it/) 2018-2020
-  - Children sport-supervisor at [ASD Pineta Basket's](https://www.facebook.com/asdpinetabasket/?locale=it_IT) summer camps 2013-2017
+## 🔵 Other Working Experiences
+  - 2021 Janitor at [Convitto Nazionale D. Cirillo](https://www.convittocirillo.edu.it/) 
+  - 2018-2020 Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/) at [Artigiano in fiera](https://artigianoinfiera.it/) 
+  - 2013-2017 Children sport-supervisor at [ASD Pineta Basket's](https://www.facebook.com/asdpinetabasket/?locale=it_IT) summer camps 
 
 
 
