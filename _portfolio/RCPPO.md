@@ -8,7 +8,7 @@ In this project I implemented the [Reward Constrained Policy Optimization Paper]
 
 ---
 title: "prova"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'> <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
 
