@@ -13,27 +13,30 @@ I'm a final year graduate student at the University of Bari - CS for AI.
 In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out because "*mens sana in corpore sano*"💪 \
 I love dogs and all kinds of animals🐾🍂
 
+<em>"A different error message! Finally some progress!"</em>
+
+
 ## 🔵 Academic & Working experiences
-2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica)
+2022 (Currently) - **Master Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence;
+See some of my academic projects in the [portfolio section](https://gianfederico.github.io/).
 
 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/)
 
-2022 (Currently) - **Master Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence;
-
-## 🔵 Other working experiences
-  - Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/)
-  - pineta bask
-  - convitto naz
-
+2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica)
 
 
 ## 🔵 Professional Experience
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I work on dynamic traffic flow forecasting using Graph Neural Networks.
+With [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop.
+As an intern, I was responsible for managing an internal HR-oriented tool, and work with clients on 
+  - implementing an applet that served as new database; 
+  - automate a list of client processes;
+
+## 🔵 Other working experiences
+  - Janitor at [Convitto Nazionale D. Cirillo](https://www.convittocirillo.edu.it/) 2021
+  - Retailer for [Masseria di Puglia](https://www.masseriadipuglia.it/) @ [Artigiano in fiera](https://artigianoinfiera.it/) 2018-2020
+  - Children sport-supervisor at [ASD Pineta Basket's](https://www.facebook.com/asdpinetabasket/?locale=it_IT) summer camps 2013-2017
 
 
-
-<em>"A different error message! Finally some progress!"</em>
 
 
 
