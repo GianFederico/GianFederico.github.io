@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "GianFederico's Homepage"
 title_separator          : "-"
@@ -30,8 +32,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : dark
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
