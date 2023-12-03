@@ -30,8 +30,8 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-remote_theme             : "mmistakes/minimal-mistakes@4.26.0"
-minimal_mistakes_skin    : dark
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+#minimal_mistakes_skin    : dark
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -267,6 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
