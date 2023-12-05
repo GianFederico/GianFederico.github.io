@@ -31,7 +31,7 @@ Thesis: Big-Data Management Techniques for Predictive Marketing.
 ## 🟢 Professional Experience
 With [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop. As an intern, I was responsible for managing an internal HR-oriented tool, and work with clients on:
   - implementing an applet that served as new database; 
-  - automate a list of client processes;
+  - automating a list of client processes;
 
 
 ## 🟢 Other Working Experiences
