@@ -18,6 +18,11 @@ I love dogs and all kinds of animals🐾🍂
 <em>"A different error message! Finally some progress!"</em>
 
 
+## 🟢 Currently Working On:
+- A comparison of novel methods for anomaly detection in the agri-food supply chain, specifically exploring the effectiveness of Autoencoders and Self-Organizing Maps.
+- Building a recommendation system for healthy recipes via a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits.
+
+
 ## 🟢 Academic & Working Experiences
 - 2022 (Currently) - **Master's Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence; \
 *See some of my academic projects in the [portfolio section](https://gianfederico.github.io/portfolio).*
