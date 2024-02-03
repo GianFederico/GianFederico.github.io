@@ -2,7 +2,7 @@
 title: "Bachelor Thesis: Big Data Management Techniques for Predictive Marketing"
 collection: publications
 excerpt: 'The thesis analyzes the phenomenon of Big Data from a business perspective, contextualizing it within the framework of predictive marketing. It outlines the characteristics of Big Data, its strengths, weaknesses, opportunities, and threats, providing real-world examples. The thesis defines the integration of Big Data within corporate mechanisms, examines the techniques employed by highly successful companies, and introduces new roles necessary to fully leverage the information derived from Big Data. The aim is to offer the possibility of a competitive advantage in the business context.'
-date: 2020-06-11
+date: 2021-06-11
 venue: 'AlmaLaurea'
 paperurl: /files/thesis.pdf
 ---
