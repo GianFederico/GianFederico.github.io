@@ -23,7 +23,7 @@ I love dogs and all kinds of animals🐾🍂
 
 
 ## 🟢 Academic & Working Experiences
-- 2022 (Currently) - **Master's Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence; \
+- 2024 - **Master's Degree Student** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica) - Computer Science for Artificial Intelligence; \
 *See some of my academic projects in the [portfolio section](https://gianfederico.github.io/portfolio).*
 
 - 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/).
