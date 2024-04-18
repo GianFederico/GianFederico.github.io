@@ -12,7 +12,7 @@ I'm a final year graduate student at the University of Bari - CS for AI.
 
 🔎Seeking opportunities to apply knowledge and contribute to the AI field.
 
-In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out after all *— a healthy body fosters a healthy mind. *💪 \
+In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out after all — a healthy body fosters a healthy mind.💪 \
 I love dogs and all kinds of animals🐾🍂
 
 <em>"A different error message! Finally some progress!"</em>
