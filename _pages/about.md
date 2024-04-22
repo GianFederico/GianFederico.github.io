@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year graduate student at the University of Bari - CS for AI.
+I've just completed my Master's Degree at University of Bari - CS for AI.
 
 🔎Seeking opportunities to apply knowledge and contribute to the AI field.
 
@@ -18,8 +18,8 @@ I love dogs and all kinds of animals🐾🍂
 <em>"A different error message! Finally some progress!"</em>
 
 
-## 🟢 Currently Working On my Master Thesis:
-- Building a [recommendation system](https://github.com/swapUniba/food_recsys_bot) for healthy recipes via a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits. (Also present in my [portfolio section](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/))
+## 🟢 My Master Thesis:
+- Implementation of a [recommendation system](https://github.com/swapUniba/food_recsys_bot) for healthy recipes integrated into a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits. (Also present in my [portfolio section](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/))
 
 
 ## 🟢 Academic & Working Experiences
