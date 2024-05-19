@@ -1,6 +1,7 @@
 ---
 title: "Python - Security Cam"
-excerpt: "Implementation of a simple security cam that records video feed only when a face or a body is detected in the current frame."
+excerpt: "Implementation of a simple security cam that records video feed only when a face or a body is detected in the current frame. \
+`python` `computer-vision` `opencv` `face-recognition` `haarcascade` `lbph` `eigenfaces` `fisherfaces`"
 collection: portfolio
 ---
 
@@ -10,6 +11,8 @@ It also recognizes the faces in the frame using [haarcascade](https://docs.openc
 At the moment it only recognizes me, but you can add any folder containing several pictures of the person you want the program to identificate.
 
 Check it out at my [github repo](https://github.com/GianFederico/SIDE-security_cam_v2).
+
+`python` `computer-vision` `opencv` `face-recognition` `haarcascade` `lbph` `eigenfaces` `fisherfaces`
 
 <br/><img src='/images/sec_cam.jpg'>
 
