@@ -1,7 +1,7 @@
 ---
 title: "Java - Text Adventure"
-excerpt: "Implementation of an old-school themed text-adventure inspired by a Dungeons&Dragons quest."
-tags: "`java` `java-swing` `parser` `text-adventure`"
+excerpt: "Implementation of an old-school themed text-adventure inspired by a Dungeons&Dragons quest.\n
+`java` `java-swing` `parser` `text-adventure`"
 collection: portfolio
 ---
 
