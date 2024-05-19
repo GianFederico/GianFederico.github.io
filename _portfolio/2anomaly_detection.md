@@ -1,7 +1,7 @@
 ---
 title: "Python - Anomaly Detection in Agri-Food Supply Chain"
 excerpt: "A comparison of novel methods for anomaly detection in the agri-food supply chain, specifically exploring the effectiveness of Autoencoders and Self-Organizing Maps in computer vision.\n
-`python` `computer-vision` `anomaly-detection` `pytorch` `tensorflow` `autoencoder` `machine-learning` `self-organizing-map`"
+`python` `computer-vision` `anomaly-detection` `pytorch` `tensorflow` `autoencoder` `self-organizing-map`"
 collection: portfolio
 ---
 
