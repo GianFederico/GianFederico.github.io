@@ -1,7 +1,8 @@
 ---
 title: "Prolog - Expert-System"
-excerpt: "Implementation of a small expert system to assist people in identifying hardware-related problems with their PCs.  
-`prolog` `backtracking` `how` `why` `recursion`"
+excerpt: |
+    Implementation of a small expert system to assist people in identifying hardware-related problems with their PCs.  
+    `prolog` `backtracking` `how` `why` `recursion`
 collection: portfolio
 ---
 
