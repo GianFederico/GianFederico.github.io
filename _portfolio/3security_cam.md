@@ -1,6 +1,6 @@
 ---
 title: "Python - Security Cam"
-excerpt: "Implementation of a simple security cam that records video feed only when a face or a body is detected in the current frame. \
+excerpt: "Implementation of a simple security cam that records video feed only when a face or a body is detected in the current frame.\n
 `python` `computer-vision` `opencv` `face-recognition` `haarcascade` `lbph` `eigenfaces` `fisherfaces`"
 collection: portfolio
 ---
