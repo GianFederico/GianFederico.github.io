@@ -1,6 +1,7 @@
 ---
 title: "Prolog - Expert-System"
-excerpt: "Implementation of a small expert system to assist people in identifying hardware-related problems with their PCs."
+excerpt: "Implementation of a small expert system to assist people in identifying hardware-related problems with their PCs. \
+`prolog`,`backtracking`,`how`,`why`."
 collection: portfolio
 ---
 
@@ -9,5 +10,7 @@ The system uses backtracking through the Prolog inference engine and prompts the
 I've also implemented "*how*" and "*why*" questions in order to improve the level of trustworthiness and transparency of the system.
 
 Check it out at my [github repo](https://github.com/GianFederico/SIDE-expert_sys_hardware_problems).
+
+`prolog`,`backtracking`,`how`,`why`.
 
  <br/><img src='/images/exp_sys.jpg'>
