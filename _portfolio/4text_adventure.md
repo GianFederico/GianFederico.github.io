@@ -1,7 +1,7 @@
 ---
 title: "Java - Text Adventure"
 excerpt: |
-    Implementation of an old-school themed text-adventure inspired by a Dungeons&Dragons quest.\n
+    Implementation of an old-school themed text-adventure inspired by a Dungeons&Dragons quest.  
     `java` `java-swing` `parser` `text-adventure`
 collection: portfolio
 ---
