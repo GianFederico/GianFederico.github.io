@@ -1,7 +1,7 @@
 ---
 title: "Python - Face recognition: ML vs DL"
-excerpt: "Machine Learning and Deep Learning models comparision for face recognition.\n
-`python` `computer-vision` `opencv` `face-recognition` `svm` `knn` `random-forest` `logistic-regression` `cnn` `machine-learning` `deep-learning`"
+excerpt: "Machine Learning and Deep Learning models comparision for face recognition."
+tags: "`python` `computer-vision` `opencv` `face-recognition` `svm` `knn` `random-forest` `logistic-regression` `cnn` `machine-learning` `deep-learning`"
 collection: portfolio
 ---
 

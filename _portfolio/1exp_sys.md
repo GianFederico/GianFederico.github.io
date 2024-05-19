@@ -1,7 +1,7 @@
 ---
 title: "Prolog - Expert-System"
-excerpt: "Implementation of a small expert system to assist people in identifying hardware-related problems with their PCs.\n
-`prolog` `backtracking` `how` `why` `recursion`"
+excerpt: "Implementation of a small expert system to assist people in identifying hardware-related problems with their PCs."
+tags: "`prolog` `backtracking` `how` `why` `recursion`"
 collection: portfolio
 ---
 
@@ -11,6 +11,6 @@ I've also implemented "*how*" and "*why*" questions in order to improve the leve
 
 Check it out at my [github repo](https://github.com/GianFederico/SIDE-expert_sys_hardware_problems).
 
-`prolog` `backtracking` `how` `why` `recursion`.
+`prolog` `backtracking` `how` `why` `recursion`
 
  <br/><img src='/images/exp_sys.jpg'>
