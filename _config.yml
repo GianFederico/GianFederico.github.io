@@ -85,13 +85,13 @@ author:
   name             : "GianFederico Poli"
   avatar           : "propic.jpg"
   bio              : "Master's Degree graduate - Computer Science for AI"
-  location         : "04/11/1995 Bari, Italy"
+  location         : "04/11/1995 - Bari, Italy"
   employer         : "University of Bari 'Aldo Moro'"
   pubmed           : 
   googlescholar    : 
   email            : "gianfederico.poli@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "+39 3922850211"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -117,6 +117,7 @@ author:
   xing             :
   youtube          : 
   wikipedia        :
+  phone            : "+39 3922850211"
 
 
 # Reading Files
