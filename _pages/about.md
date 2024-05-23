@@ -18,7 +18,7 @@ I love dogs and all kinds of animals🐾🍂
 <em>"A different error message! Finally some progress!"</em>
 
 
-## 🟢 My Master Thesis:
+## 🟢 My Master Thesis
 - Implementation of a [recommendation system](https://github.com/swapUniba/food_recsys_bot) for healthy recipes integrated into a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits. (Also present in my [portfolio section](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/))
 
 
