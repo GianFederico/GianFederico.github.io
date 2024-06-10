@@ -23,12 +23,13 @@ I love dogs and all kinds of animals🐾🍂
 
 
 ## 🟢 Academic & Working Experiences
-- 2024 - **Master's Degree in Computer Science for Artificial Intelligence** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica); \
+- 2024 - **Master's Degree in CS - Artificial Intelligence** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/cdl-computer-science/corso-di-laurea-in-computer-science); \
+Thesis: A Personal Assistant for Healthy and Sustainable Food Recommendations. \
 *See some of my academic projects in the [portfolio section](https://gianfederico.github.io/portfolio).*
 
 - 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/).
 
-- 2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/ricerca/dipartimenti/informatica); \
+- 2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/informatica/corso-di-laurea-in-informatica); \
 Thesis: Big-Data Management Techniques for Predictive Marketing.
 
 
