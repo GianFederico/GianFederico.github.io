@@ -39,11 +39,11 @@ Thesis: Big-Data Management Techniques for Predictive Marketing.
   - At [Baker Hughes](https://www.bakerhughes.com/) I am currently working as a Data Analyst, leveraging Python and Pandas to extract, clean, normalize, and validate data for business intelligence purposes. \
     I am Responsible for managing databases and develop insightful and actionable Power BI reports focused on:
     - Active Fleet Localization;
-    - Installed Based Opportunity Identification; \
-    
+    - Installed Based Opportunity Identification;
+
   - At [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop. As an intern, I was  responsible for managing an internal HR-oriented tool, and working with clients on the following:
-    - implementing an applet that served as new database; 
-    - automating a list of client processes;
+    - Implementing an applet that served as new database; 
+    - Automating a list of client processes;
 
 
 ## 🟢 Other Working Experiences
