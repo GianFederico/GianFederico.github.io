@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I've just completed my Master's Degree at University of Bari - CS for AI.
-Currently working as a Data Analyst @ 
+Currently working as a Data Analyst, always ready to contribute in the field of Artificial Intelligence.
 
 In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out after all — a healthy body fosters a healthy mind.💪 \
 I love dogs and all kinds of animals🐾🍂
