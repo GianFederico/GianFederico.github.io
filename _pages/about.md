@@ -32,7 +32,7 @@ Bachelor Thesis: Big-Data Management Techniques for Predictive Marketing.
 
 ## 🟢 Professional Experience
   - At [Baker Hughes](https://www.bakerhughes.com/) I am currently working as a Data Analyst, leveraging Python and Pandas to extract, clean, normalize, and validate data for business intelligence purposes. \
-    I am responsible for managing databases and develop insightful and actionable Power BI reports focused on:
+    I am responsible for managing databases and developing insightful and actionable Power BI reports focused on:
     - Active Fleet Localization;
     - Installed Based Opportunity Identification;
 
