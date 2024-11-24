@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I've just completed my Master's Degree at University of Bari - CS for AI.
-
-🔎Seeking opportunities to apply knowledge and contribute to the AI field.
+Currently working as a Data Analyst @ 
 
 In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out after all — a healthy body fosters a healthy mind.💪 \
 I love dogs and all kinds of animals🐾🍂
@@ -18,26 +17,22 @@ I love dogs and all kinds of animals🐾🍂
 <em>"A different error message! Finally some progress!"</em>
 
 
-## 🟢 My Master Thesis
-- Implementation of a [recommendation system](https://github.com/swapUniba/food_recsys_bot) for healthy recipes integrated into a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits. (Also present in my [portfolio section](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/))
-
-
-## 🟢 Academic & Working Experiences
-- 2024 - Currently - **Internship as Data Analyst** at [Baker Hughes](https://www.bakerhughes.com/).
+## 🟢 Academic & Working Experience
+- 2024, Currently - **Internship as Data Analyst** at [Baker Hughes](https://www.bakerhughes.com/).
 
 - 2024 - **Master's Degree in CS - Artificial Intelligence** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/cdl-computer-science/corso-di-laurea-in-computer-science); \
-Thesis: A Personal Assistant for Healthy and Sustainable Food Recommendations. \
-*See some of my academic projects in the [portfolio section](https://gianfederico.github.io/portfolio).*
+Master Thesis: A Personal Assistant for Healthy and Sustainable Food Recommendations; Implementation of a [recommendation system](https://github.com/swapUniba/food_recsys_bot) for healthy recipes integrated into a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits. \
+*See [the bot](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/) and some of my academic projects in the [portfolio section](https://gianfederico.github.io/portfolio).*
 
 - 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/).
 
 - 2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/informatica/corso-di-laurea-in-informatica); \
-Thesis: Big-Data Management Techniques for Predictive Marketing.
+Bachelor Thesis: Big-Data Management Techniques for Predictive Marketing.
 
 
 ## 🟢 Professional Experience
   - At [Baker Hughes](https://www.bakerhughes.com/) I am currently working as a Data Analyst, leveraging Python and Pandas to extract, clean, normalize, and validate data for business intelligence purposes. \
-    I am Responsible for managing databases and develop insightful and actionable Power BI reports focused on:
+    I am responsible for managing databases and develop insightful and actionable Power BI reports focused on:
     - Active Fleet Localization;
     - Installed Based Opportunity Identification;
 
