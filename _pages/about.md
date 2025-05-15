@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I've just completed my Master's Degree at University of Bari - CS for AI.
-Currently working as a Data Analyst, always ready to contribute in the field of Artificial Intelligence.
+I earned my Master’s Degree in Computer Science for Artificial Intelligence at the University of Bari a little over a year ago. \
+Now I’ve been working as a Data Scientist, driven by a genuine curiosity for AI and a desire to build things that make a real difference.
 
 In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out after all — a healthy body fosters a healthy mind.💪 \
 I love dogs and all kinds of animals🐾🍂
@@ -18,27 +18,30 @@ I love dogs and all kinds of animals🐾🍂
 
 
 ## 🟢 Academic & Working Experience
-- 2024, Currently - **Internship as Data Analyst** at [Baker Hughes](https://www.bakerhughes.com/).
+- 2025 - Currently - **Data Scientist - Full Time** at [OVS](https://www.ovscorporate.it/en);
+
+- 2024 - **Internship as Data Analyst** at [Baker Hughes](https://www.bakerhughes.com/);
 
 - 2024 - **Master's Degree in CS - Artificial Intelligence** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/cdl-computer-science/corso-di-laurea-in-computer-science); \
-Master Thesis: A Personal Assistant for Healthy and Sustainable Food Recommendations; Implementation of a [recommendation system](https://github.com/swapUniba/food_recsys_bot) for healthy recipes integrated into a Telegram bot, with a focus on crafting persuasive explanations for the suggestions to encourage users to adopt healthier eating habits. \
-*See [the bot](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/) and some of my academic projects in the [portfolio section](https://gianfederico.github.io/portfolio).*
+Master Thesis: [A Personal Assistant for Healthy and Sustainable Food Recommendations](https://gianfederico.github.io/portfolio);
 
-- 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/).
+- 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/);
 
 - 2021 - **Bachelor's Degree in Computer Science** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/informatica/corso-di-laurea-in-informatica); \
-Bachelor Thesis: Big-Data Management Techniques for Predictive Marketing.
+Bachelor Thesis: [Big-Data Management Techniques for Predictive Marketing](https://gianfederico.github.io/publications/thesis/);
 
 
 ## 🟢 Professional Experience
-  - At [Baker Hughes](https://www.bakerhughes.com/) I am currently working as a Data Analyst, leveraging Python and Pandas to extract, clean, normalize, and validate data for business intelligence purposes. \
-    I am responsible for managing databases and developing insightful and actionable Power BI reports focused on:
-    - Active Fleet Localization;
-    - Installed Based Opportunity Identification;
+  - [OVS](https://www.ovscorporate.it/en) \
 
-  - At [Alten IT](https://www.alten.it/) I've worked on multiple active projects both back-end (C#, EntityFramework) and front-end (Angular, HTML, CSS, JSON Server) also along with an automation project using Microsoft Power Automate Desktop. As an intern, I was  responsible for managing an internal HR-oriented tool, and working with clients on the following:
-    - Implementing an applet that served as new database; 
-    - Automating a list of client processes;
+  - [Baker Hughes](https://www.bakerhughes.com/) \
+    - Supported business decision-making through data-driven insights, with a focus on after-sales and service operations. \
+    - Developed automated Python pipelines that consolidated data from multiple sources to enhance traceability between spare parts transactions and machine serial numbers — achieving ~85% match coverage in sales orders.
+    - Designed and maintained Power BI dashboards used by senior leadership to steer sales strategy. This also was the starting point to identify installed base opportunities across global markets.
+
+  - [Alten IT](https://www.alten.it/) \
+    - Completed a software development internship at Alten, contributing to full-stack projects (C#, Entity Framework, Angular), including an internal HR-oriented tool and a customer database applet.
+    - Created a process automation using Microsoft Power Automate Desktop to streamline workflows.
 
 
 ## 🟢 Other Working Experiences
