@@ -18,12 +18,12 @@ I love dogs and all kinds of animals🐾🍂
 
 
 ## 🟢 Academic & Working Experience
-- 2025 - Currently - **Data Scientist - Full Time** at [OVS](https://www.ovscorporate.it/en);
+- 2025 - Currently - **Data Scientist - Full time** at [OVS](https://www.ovscorporate.it/en);
 
 - 2024 - **Internship as Data Analyst** at [Baker Hughes](https://www.bakerhughes.com/);
 
 - 2024 - **Master's Degree in CS - Artificial Intelligence** at [University of Bari "Aldo Moro"](https://www.uniba.it/it/corsi/cdl-computer-science/corso-di-laurea-in-computer-science); \
-Master Thesis: [A Personal Assistant for Healthy and Sustainable Food Recommendations](https://gianfederico.github.io/portfolio);
+Master Thesis: [A Personal Assistant for Healthy and Sustainable Food Recommendations](https://gianfederico.github.io/portfolio/2.3foodrecsysbot/);
 
 - 2021 - **Internship as Software Developer** at [Alten IT](https://www.alten.it/);
 
@@ -32,11 +32,11 @@ Bachelor Thesis: [Big-Data Management Techniques for Predictive Marketing](https
 
 
 ## 🟢 Professional Experience
-  - [OVS](https://www.ovscorporate.it/en) \
+  - [OVS](https://www.ovscorporate.it/en) 
 
   - [Baker Hughes](https://www.bakerhughes.com/) \
-    - Supported business decision-making through data-driven insights, with a focus on after-sales and service operations. \
-    - Developed automated Python pipelines that consolidated data from multiple sources to enhance traceability between spare parts transactions and machine serial numbers — achieving ~85% match coverage in sales orders.
+    - Supported business decision-making through data-driven insights, with a focus on after-sales and service operations. 
+    - Developed automated Python pipelines that consolidated data from multiple sources to enhance traceability between spare parts transactions and machine serial numbers — achieving ~85% match coverage on sales orders.
     - Designed and maintained Power BI dashboards used by senior leadership to steer sales strategy. This also was the starting point to identify installed base opportunities across global markets.
 
   - [Alten IT](https://www.alten.it/) \
