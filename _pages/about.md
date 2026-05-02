@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Master’s Degree in Computer Science for Artificial Intelligence at the University of Bari a little over a year ago. \
+I earned my Master’s Degree in Computer Science for Artificial Intelligence at the University of Bari in 2024. \
 Now I’ve been working as a Data Scientist, driven by a genuine curiosity for AI and a desire to build things that make a real difference.
 
 In my free time I enjoy traveling✈️, PC-gaming🎮, Tabletop role-playing games(both as player and GameMaster)🎲, and working out after all — a healthy body fosters a healthy mind.💪 \
@@ -32,7 +32,11 @@ Bachelor Thesis: [Big-Data Management Techniques for Predictive Marketing](https
 
 
 ## 🟢 Professional Experience
-  - [OVS](https://www.ovscorporate.it/en) 
+  - [OVS](https://www.ovscorporate.it/en) \
+    - Designed and deployed a forecasting system for 1,000+ retail stores, delivering intraday end-of-day predictions based on realtime sales refreshed every 30 minutes using XGBoost and advanced feature engineering.
+    - Developed production-grade ML pipelines on Databricks with PySpark and MLflow using asset bundles, covering the full model lifecycle from training and tuning to deployment and monitoring.
+    - Handled cold-start scenarios, promotional effects, and non-recurring events in real-world retail operations.
+    - [More info about the project](https://gianfederico.github.io/portfolio/1.9OVS_work-experience/)
 
   - [Baker Hughes](https://www.bakerhughes.com/) \
     - Supported business decision-making through data-driven insights, with a focus on after-sales and service operations. 
